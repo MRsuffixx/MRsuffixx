@@ -5,7 +5,7 @@
 ### 🚀 Tutkuyla Kod Yazan Bir Öğrenci & Gelecek Yazılımcı
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=%C3%96%C4%9Frenmek+i%C3%A7in+Ya%C5%9F%C4%B1yorum+%F0%9F%93%9A;Kodlamak+i%C3%A7in+Ya%C5%9F%C4%B1yorum+%F0%9F%92%BB;Geli%C5%9Ftirmek+i%C3%A7in+Ya%C5%9F%C4%B1yorum+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&width=435&lines=Denemek+i%C3%A7in+ya%C5%9F%C4%B1yorum.;Oyun+oynamak+i%C3%A7in+ya%C5%9F%C4%B1yorum;Ailem+i%C3%A7in+ya%C5%9F%C4%B1yorum.;Gelece%C4%9Fim+i%C3%A7in+ya%C5%9F%C4%B1yorum.;Para+i%C3%A7in+ya%C5%9F%C4%B1yorum.(Ailem+i%C3%A7in)" alt="Typing SVG" />
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=mrsuffixx&label=Profil%20Görüntülenme&color=6366f1&style=for-the-badge" alt="Profile Views" />
