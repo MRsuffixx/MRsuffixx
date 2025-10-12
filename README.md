@@ -1,16 +1,138 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**MRsuffixx/MRsuffixx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👨‍💻 Merhaba, Ben Berat N. (MRsuffix)
 
-Here are some ideas to get you started:
+### 🚀 Tutkuyla Kod Yazan Bir Öğrenci & Gelecek Yazılımcı
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=%C3%96%C4%9Frenmek+i%C3%A7in+Ya%C5%9F%C4%B1yorum+%F0%9F%93%9A;Kodlamak+i%C3%A7in+Ya%C5%9F%C4%B1yorum+%F0%9F%92%BB;Geli%C5%9Ftirmek+i%C3%A7in+Ya%C5%9F%C4%B1yorum+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=mrsuffixx&label=Profil%20Görüntülenme&color=6366f1&style=for-the-badge" alt="Profile Views" />
+
+</div>
+
+---
+
+## 🎯 Hakkımda
+
+Yazılım dünyasına adım atan, sürekli öğrenmeye ve gelişmeye açık bir öğrenciyim. Her gün yeni bir şeyler öğrenip, projeler geliştirerek deneyim kazanıyorum. Sınırlı bilgiyle başladım ama **sınırsız bir tutku** ile devam ediyorum! 
+
+```javascript
+const berat = {
+    rol: "Yazılım Öğrencisi",
+    lokasyon: "Türkiye 🇹🇷",
+    odak: ["Backend Geliştirme", "Mobil Uygulamalar", "DevOps"],
+    motto: "Öğrenmek asla bitmez, kod yazmak asla eskimez!",
+    kahve: "☕ x ∞"
+};
+```
+
+---
+
+## 🛠️ Teknoloji Yığınım
+
+### 💻 Programlama Dilleri
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+</p>
+
+### 🔧 Araçlar & Teknolojiler
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="NGINX"/>
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino"/>
+</p>
+
+### 🗄️ Veritabanları
+<p align="left">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB"/>
+</p>
+
+---
+
+## 📊 GitHub İstatistiklerim
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mrsuffixx&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrsuffixx&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrsuffixx&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mrsuffixx&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="Trophies"/>
+</div>
+
+---
+
+## 🔥 Şu Anda Neler Yapıyorum?
+
+- 🌱 **Öğreniyorum:** Java, Kotlin, Python, Node.js ve C# ile backend geliştirme
+- 🚀 **Çalışıyorum:** Açık kaynak projelere katkıda bulunmak için
+- 💡 **Planlıyorum:** Kendi startup projemi geliştirmek
+- 📚 **Okuyorum:** Manisa CBÜ - Bilgisayar Programcılığı
+- ⚡ **Eğleniyorum:** IoT projeleri ile Arduino'da deneyler yaparak
+
+---
+
+## 🌐 Bana Ulaşın
+
+<p align="center">
+  <a href="https://olnk.tr" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Website-olnk.tr-6366f1?style=for-the-badge" alt="Website"/>
+  </a>
+  <a href="mailto:mrsuffix@olnk.tr">
+    <img src="https://img.shields.io/badge/Email-mrsuffix@olnk.tr-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://instagram.com/brt.nrkz" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://www.youtube.com/c/@mrsuffix" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+  </a>
+  <a href="https://discord.gg/KKjeaqtY9K" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
+</p>
+
+---
+
+## 💭 Rastgele Geliştirici Sözü
+
+<div align="center">
+  
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+---
+
+<div align="center">
+  
+### 🎵 "Kod yazmak sanat değil, sanattır!" 🎨
+
+**⭐ Projelerimi beğendiyseniz yıldızlamayı unutmayın!**
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
+---
+
+<sub>💙 Türkiye'den selamlar! Made with ❤️ and ☕</sub>
+
+</div>
