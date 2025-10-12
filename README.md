@@ -66,18 +66,12 @@ const berat = {
 
 ## 📊 GitHub İstatistiklerim
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mrsuffixx&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrsuffixx&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
-</div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrsuffixx&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak"/>
-</div>
+<div align="center"> <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mrsuffixx&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9&border_radius=15" alt="GitHub Stats"/> <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=mrsuffixx&theme=radical&hide_border=true&background=0d1117&stroke=6366f1&ring=6366f1&fire=6366f1&currStreakLabel=6366f1&border_radius=15" alt="GitHub Streak"/> </div> <div align="center"> <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrsuffixx&layout=compact&langs_count=10&theme=radical&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9&border_radius=15" alt="Top Languages"/> <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=mrsuffixx&theme=react-dark&hide_border=true&bg_color=0d1117&color=6366f1&line=6366f1&point=c9d1d9&area=true&custom_title=Katkı%20Grafiği&radius=15" alt="Activity Graph"/> </div> <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=mrsuffixx&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15&title=MultiLanguage,Commits,Repositories,Stars,Followers,PullRequest,Issues" alt="Trophies"/> </div> <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mrsuffixx&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="Trophies"/>
-</div>
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="30" /> Coding Aktivitesi
+
+<!--START_SECTION:waka--> <!--END_SECTION:waka--> <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=mrsuffixx&bg_color=0d1117&color=6366f1&line=6366f1&point=ffffff&area=true&hide_border=true&custom_title=Son%2030%20Günlük%20Aktivite" width="95%" alt="Contribution Graph"/> </div> <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 ---
 
@@ -87,7 +81,7 @@ const berat = {
 - 🚀 **Çalışıyorum:** Açık kaynak projelere katkıda bulunmak için
 - 💡 **Planlıyorum:** Kendi startup projemi geliştirmek
 - 📚 **Okuyorum:** Manisa CBÜ - Bilgisayar Programcılığı
-- ⚡ **Eğleniyorum:** IoT projeleri ile Arduino'da deneyler yaparak
+- ⚡ **Eğleniyorum:** Oyun oynayarak ve mini projeler yaparak
 
 ---
 
